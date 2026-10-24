@@ -1,6 +1,6 @@
 # Emmanuele Sacco — Portfolio
 
-Portfolio personale statico, progettato per comunicare un profilo orientato a sistemi, infrastrutture e IT operations.
+CV portfolio personale statico, progettato per raccontare attività, competenze e metodo professionale con un focus su Microsoft 365, Azure, Intune ed Entra ID.
 
 ## Struttura
 
